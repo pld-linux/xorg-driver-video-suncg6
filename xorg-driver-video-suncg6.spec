@@ -6,7 +6,7 @@ Release:	1
 License:	MIT
 Group:		X11/Applications
 Source0:	http://xorg.freedesktop.org/releases/individual/driver/xf86-video-suncg6-%{version}.tar.bz2
-# Source0-md5:	aa6b7836fe6ccc99994bf15ff2b74e86
+# Source0-md5:	bc9904a9129aaf73408568ae1e2fa65f
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake
