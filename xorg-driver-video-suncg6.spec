@@ -2,7 +2,7 @@ Summary:	X.org video driver for Sun GX and Turbo GX video cards
 Summary(pl.UTF-8):	Sterownik obrazu X.org dla kart graficznych Sun GX i Turbo GX
 Name:		xorg-driver-video-suncg6
 Version:	1.1.1
-Release:	1
+Release:	2
 License:	MIT
 Group:		X11/Applications
 Source0:	http://xorg.freedesktop.org/releases/individual/driver/xf86-video-suncg6-%{version}.tar.bz2
